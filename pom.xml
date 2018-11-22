@@ -50,7 +50,7 @@
          <plugins>
             <plugin>
                <artifactId>maven-compiler-plugin</artifactId>
-               <version>3.3</version>
+               <version>3.5</version>
                <configuration>
                   <executable>${JAVA_HOME}/bin/javac</executable>
                   <source>1.7</source>
